@@ -1,6 +1,6 @@
 
-#ifndef __ASTAR_HPP_8F637DB91972F6C878D41D63F7E7214F__
-#define __ASTAR_HPP_8F637DB91972F6C878D41D63F7E7214F__
+#ifndef ASTAR_HPP
+#define ASTAR_HPP
 
 #include <vector>
 #include <functional>
