@@ -26,11 +26,15 @@ The program will visualize the path (if found) in green, and the start and end p
 
 **Features**
 
-Interactive Visualization: The program provides an interactive grid-based visualization of the A* pathfinding algorithm, making it easy to understand the pathfinding process.
-Dynamic Point Placement: You can dynamically place the start and end points on the grid, allowing you to explore different scenarios.
-Obstacle Simulation: You can place obstacles on the grid to simulate real-world scenarios and observe how the A* algorithm navigates around them.
-Real-Time Pathfinding: The program provides real-time pathfinding visualization, helping you see how the algorithm explores different paths.
-A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for its efficiency in finding optimal routes.
+ ⦿ Interactive Visualization: The program provides an interactive grid-based visualization of the A* pathfinding algorithm, making it easy to understand the pathfinding process.
+
+ ⦿ Dynamic Point Placement: You can dynamically place the start and end points on the grid, allowing you to explore different scenarios.
+
+ ⦿ Obstacle Simulation: You can place obstacles on the grid to simulate real-world scenarios and observe how the A* algorithm navigates around them.
+
+ ⦿ Real-Time Pathfinding: The program provides real-time pathfinding visualization, helping you see how the algorithm explores different paths.
+
+ ⦿ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for its efficiency in finding optimal routes.
 
 **Explanation**
 
