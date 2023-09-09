@@ -37,12 +37,10 @@ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for it
 A* Pathfinding Algorithm
 
 The A* (A-star) algorithm is a popular pathfinding algorithm used in computer science and game development to find the shortest path between two points on a grid while considering obstacles. It intelligently explores possible paths and selects the most promising ones based on a combination of two factors:
+- G-Cost: The cost of reaching a particular point from the starting point. It represents the distance traveled.
+- H-Cost (Heuristic Cost): An estimate of the cost from a point to the target. It measures the "as-the-crow-flies" distance.
 
-    - G-Cost: The cost of reaching a particular point from the starting point. It represents the distance traveled.
-
-    - H-Cost (Heuristic Cost): An estimate of the cost from a point to the target. It measures the "as-the-crow-flies" distance.
-
-    By combining the G-Cost and H-Cost, the algorithm selects the path with the lowest total cost, ensuring an efficient and optimal route.
+By combining the G-Cost and H-Cost, the algorithm selects the path with the lowest total cost, ensuring an efficient and optimal route.
 
 
 **Customization**
