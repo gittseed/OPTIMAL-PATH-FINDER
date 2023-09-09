@@ -33,7 +33,6 @@ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for it
 
 **Explanation**
 
-    ```markdown
     A* Pathfinding Algorithm
     The A* (A-star) algorithm is a popular pathfinding algorithm used in computer science and game development to find the shortest path between two points on a grid while considering obstacles. It intelligently explores possible paths and selects the most promising ones based on a combination of two factors:
 
@@ -46,6 +45,5 @@ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for it
 
 **Customization**
 
-    ```markdown
     You can customize the grid size and other settings by modifying the code in the `main.cpp` file. Additionally, you can adjust the appearance of the grid, obstacles, and path by modifying the rendering code in the same file.
 
