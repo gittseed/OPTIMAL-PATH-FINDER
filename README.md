@@ -25,6 +25,7 @@ Press the Enter key when you're done placing obstacles to trigger the A* pathfin
 The program will visualize the path (if found) in green, and the start and end points in red and cyan, respectively.
 
 **Features**
+
 Interactive Visualization: The program provides an interactive grid-based visualization of the A* pathfinding algorithm, making it easy to understand the pathfinding process.
 Dynamic Point Placement: You can dynamically place the start and end points on the grid, allowing you to explore different scenarios.
 Obstacle Simulation: You can place obstacles on the grid to simulate real-world scenarios and observe how the A* algorithm navigates around them.
@@ -33,8 +34,9 @@ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for it
 
 **Explanation**
 
-    A* Pathfinding Algorithm
-    The A* (A-star) algorithm is a popular pathfinding algorithm used in computer science and game development to find the shortest path between two points on a grid while considering obstacles. It intelligently explores possible paths and selects the most promising ones based on a combination of two factors:
+A* Pathfinding Algorithm
+
+The A* (A-star) algorithm is a popular pathfinding algorithm used in computer science and game development to find the shortest path between two points on a grid while considering obstacles. It intelligently explores possible paths and selects the most promising ones based on a combination of two factors:
 
     - G-Cost: The cost of reaching a particular point from the starting point. It represents the distance traveled.
 
@@ -45,5 +47,5 @@ A Pathfinding Algorithm*: It utilizes the A* pathfinding algorithm, known for it
 
 **Customization**
 
-    You can customize the grid size and other settings by modifying the code in the `main.cpp` file. Additionally, you can adjust the appearance of the grid, obstacles, and path by modifying the rendering code in the same file.
+You can customize the grid size and other settings by modifying the code in the `main.cpp` file. Additionally, you can adjust the appearance of the grid, obstacles, and path by modifying the rendering code in the same file.
 
